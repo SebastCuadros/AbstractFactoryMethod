@@ -15,15 +15,15 @@ aplicado a la creación de diferentes tipos de menús en un restaurante.
 
 El sistema permite seleccionar un tipo de menú:
 
--   Menú Vegetariano\
--   Menú Gourmet\
+-   Menú Vegetariano
+-   Menú Gourmet
 -   Menú Saludable
 
 Cada menú crea una familia de productos compuesta por:
 
--   Entrada\
--   Plato fuerte\
--   Bebida\
+-   Entrada
+-   Plato fuerte
+-   Bebida
 -   Postre
 
 El objetivo es desacoplar la creación de objetos del código cliente,
@@ -97,6 +97,3 @@ La implementación del patrón Factory Method permite:
 -   Mejorar la mantenibilidad del código.
 
 ------------------------------------------------------------------------
-
-© 2024\
-Universidad Distrital Francisco José de Caldas
